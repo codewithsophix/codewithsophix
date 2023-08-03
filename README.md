@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @codewithsophix
+- 👀 I’m interested in html, css and javascript
+- 🌱 I’m currently learning javascript and html
+- 💞️ I’m looking to collaborate on some webs.
+- 📫 How to reach me "maximbauman14@gmail.com" or instagram codewithsophix
